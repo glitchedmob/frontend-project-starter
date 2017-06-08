@@ -22,7 +22,6 @@ paths.typscript = paths.source + "typescript/";
 
 gulp.task("copy", function() {
 	// Copy css files to public folder
-	console.log(paths.bootstrapCSS, paths.css);
 	gulp.src(paths.bootstrapCSS)
 		.pipe(gulp.dest(paths.css));
 	// Copy JS files to public folder

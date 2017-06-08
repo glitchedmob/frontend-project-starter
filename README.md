@@ -41,4 +41,4 @@ Function: Watches the `./src/` directory for file changes and then runs the sass
 ### Default
 Command: `gulp`
 
-Function: runs the watch command
+Function: Runs the watch command
