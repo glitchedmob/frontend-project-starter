@@ -24,9 +24,5 @@
     "gulp-sass": "^3.1.0",
     "gulp-typescript": "^3.1.6",
     "typescript": "^2.3.4"
-  },
-  "dependencies": {
-    "bootstrap": "^4.0.0-alpha.6",
-    "jquery": "^3.2.1"
   }
 }
